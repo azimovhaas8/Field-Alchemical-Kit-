@@ -1,0 +1,18 @@
+{
+    "ModTitle": "Field Alchemical Lab",
+    "ModVersion": "1.0",
+    "ModAuthor": "azimovhaas8",
+    "ContactInfo": "NexusMods: AzimovYuri88",
+    "DFUnity_Version": "0.10.27",
+    "ModDescription": "Adds a portable alchemical kit into the game. ",
+    "GUID": "1d79b116-ba8a-4825-830a-9c151d1960cb",
+    "Files": [
+        "Assets/Game/Mods/FieldAlchemicalLab/ItemTemplates.json",
+        "Assets/Game/Mods/FieldAlchemicalLab/Textures/901_0-0.png",
+        "Assets/Game/Mods/FieldAlchemicalLab/Scripts/FieldAlchemicalLabMod.cs",
+        "Assets/Game/Mods/FieldAlchemicalLab/Scripts/FieldAlchemyKit.cs",
+        "Assets/Game/Mods/FieldAlchemicalLab/Scripts/PortableLabLogic.cs",
+        "Assets/Game/Mods/FieldAlchemicalLab/FieldAlchemicalLab.dfmod.json",
+        "Assets/Game/Mods/FieldAlchemicalLab/Scripts/LabItemLogic.cs"
+    ]
+}
