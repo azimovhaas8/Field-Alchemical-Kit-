@@ -1,7 +1,7 @@
 # Field-Alchemical-Kit-
 Adds a portable alchemical kit to shops in Daggerfall Unity.
 
- What does this mod brings into the game? --
+ - ![#f03c15](What does this mod brings into the game? --) `#f03c15`
 
 Additional one item (Field Alchemical Kit) allowing to mix potions in the field, outside
 of guild services, hopefully allowing for slightly more flexible gameplay for some rather
